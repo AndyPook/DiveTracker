@@ -1,1 +1,6 @@
 DiveTracker
+===========
+
+Nothing to see here. Yet...
+
+Intention: Tag and time Formation Skydiving videos. Find your best exits and blocks. Generate stats to identify inconsistencies to train on...
